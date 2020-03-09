@@ -1,14 +1,14 @@
-74c005382dbf025fbe8a6c7eb18fc358 *DESCRIPTION
+a5e1c921821e396108587ed17ac3c75d *DESCRIPTION
 3fba759d775eef8dbede5c96db8fd530 *LICENSE
 87d39212bf5d655b81f7016b744c1c19 *NAMESPACE
-b5feee2bb81206047a737f85590894a6 *NEWS
+22c5175cc60baf4791224d3b1c6e3ca2 *NEWS
 42bb7577a21a4b3f4f10d5f72f1c8eb8 *R/api.R
 f2576a9e2590e614bff62ca07209b7a2 *R/driver.R
 f8aa05ab92a3a2fd3e566b13a4397b51 *R/file.R
 f05a94f5d046bb0f0a086947eb2acc14 *R/print.R
 7b05f61df06567b53c4b317117fdd54e *R/zzz.R
-41162358a2d0a54f3833eb2cf310ebba *configure
-6ca9cd32b03455e70be98dd036e76580 *configure.ac
+9212a70879bb410a9acd79fbec0f47dc *configure
+33f59b057a7e85db3e5cd169aca1d6f1 *configure.ac
 b0b6542340247d769a16999f31268151 *man/audio.drivers.Rd
 0b722d88010d102f938256a9093f3722 *man/audioInstance-methods.Rd
 aecf1be270065dd836418a36fac6ca7e *man/audioSample-methods.Rd
@@ -25,5 +25,5 @@ f146dbec284ef967b6902319eba75e13 *src/au.c
 afe8f444401e415f0bf5f337c923fdff *src/driver.c
 03a43cc744990b04d0dfe4e6c9171937 *src/driver.h
 5943edde70e6617e036dcd258264df02 *src/file.c
-7fb455a719df50e21a6465e70b9f11b5 *src/pa.c
+7784ce694687887b75a124778adca6ca *src/pa.c
 eba453193fd4be11a811273c6a569f0b *src/wmm.c
