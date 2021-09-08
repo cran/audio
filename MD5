@@ -1,4 +1,4 @@
-a5e1c921821e396108587ed17ac3c75d *DESCRIPTION
+6596e4c7c38133194b7cd196eedec82f *DESCRIPTION
 3fba759d775eef8dbede5c96db8fd530 *LICENSE
 87d39212bf5d655b81f7016b744c1c19 *NAMESPACE
 22c5175cc60baf4791224d3b1c6e3ca2 *NEWS
@@ -23,7 +23,7 @@ c733862ac29e8bbd01a49b5ac7d4a780 *src/Makevars.in
 f146dbec284ef967b6902319eba75e13 *src/au.c
 512cdee1698f9bf68da692edb8febf11 *src/config.h.in
 afe8f444401e415f0bf5f337c923fdff *src/driver.c
-03a43cc744990b04d0dfe4e6c9171937 *src/driver.h
-5943edde70e6617e036dcd258264df02 *src/file.c
+c657052a9bb5d2632d6203b3c614999e *src/driver.h
+6033c6f8b486f24adea3b2e5ce64cf41 *src/file.c
 7784ce694687887b75a124778adca6ca *src/pa.c
 eba453193fd4be11a811273c6a569f0b *src/wmm.c

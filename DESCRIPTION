@@ -1,5 +1,5 @@
 Package: audio
-Version: 0.1-7
+Version: 0.1-8
 Title: Audio Interface for R
 Author: Simon Urbanek <simon.urbanek@r-project.org>
 Maintainer: Simon Urbanek <simon.urbanek@r-project.org>
@@ -8,6 +8,6 @@ Description: Interfaces to audio devices (mainly sample-based) from R to allow r
 License: MIT + file LICENSE
 URL: http://www.rforge.net/audio/
 NeedsCompilation: yes
-Packaged: 2020-02-26 00:31:07 UTC; svnuser
+Packaged: 2021-09-08 04:44:17 UTC; rforge
 Repository: CRAN
-Date/Publication: 2020-03-09 08:31:18 UTC
+Date/Publication: 2021-09-08 06:12:23 UTC
